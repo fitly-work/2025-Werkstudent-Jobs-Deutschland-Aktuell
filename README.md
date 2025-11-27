@@ -25,7 +25,6 @@ Java, Python, C++, Frontend, Backend, Mobile Entwicklung.
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 | Firma | Position | Stadt | Aktuell | Aktion |
 | :--- | :--- | :--- | :--- | :--- |
-| Axel Springer SE | Werkstudent Im Provider- & Software-Asset-Management (M/W/D) | Berlin | 1 hour ago | [Ansehen](https://de.fitly.work/job-details/1402964350130819658?utm_source=github&utm_medium=readme&utm_campaign=2025-werkstudent-jobs-deutschland-aktuell&utm_content=apply-softwareentwicklung-1402964350130819658) |
 | Datev eG | Werkstudent Wirtschaftsinformatik (Master) - QS & KI (m/w/d) | Nürnberg | 3 hours ago | [Ansehen](https://de.fitly.work/job-details/8722957673820933444?utm_source=github&utm_medium=readme&utm_campaign=2025-werkstudent-jobs-deutschland-aktuell&utm_content=apply-softwareentwicklung-8722957673820933444) |
 | Datev eG | Werkstudent Qualitätssicherung & Support für Requirements Engineering (m/w/d) | Nürnberg | 9 hours ago | [Ansehen](https://de.fitly.work/job-details/-3579874285206529403?utm_source=github&utm_medium=readme&utm_campaign=2025-werkstudent-jobs-deutschland-aktuell&utm_content=apply-softwareentwicklung--3579874285206529403) |
 | Datev eG | Werkstudent Fachcontent-Erstellung und Qualitätssicherung (m/w/d) | Nürnberg | 9 hours ago | [Ansehen](https://de.fitly.work/job-details/-4345886084131134853?utm_source=github&utm_medium=readme&utm_campaign=2025-werkstudent-jobs-deutschland-aktuell&utm_content=apply-softwareentwicklung--4345886084131134853) |
